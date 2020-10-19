@@ -9,7 +9,7 @@ Students are enrolled in subjects. Each subject has several courseworks that mus
 - **Part A — Design:**
   - Draw a Conceptual Schema (ER Diagram).
   - Translate the Conceptual Schema into a Relational Schema.
-  - Normalise the Relations.<br>
+  - Normalise the Relations (from 1NF to 4NF).<br>
   
 - **Part B — Implementation:**
   - Implement this Schema using SQL in Oracle.
